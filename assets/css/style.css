@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input, img, video{
+    width: 100%;
+}
+#pg{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(1, 1, 19);
+    border: 10px solid blue;
+}
+#pacman{
+    width: 200px;
+    height: 200px;
+    
+}
+#vegeta{
+    width: 200px;
+    height: 200px;
+}
+
